@@ -23,7 +23,8 @@ Check out the [live demo](#) to play the game.
 
 ## 🖼️ Screenshot
 Home page
-![Screenshot 2024-11-06 143843](https://github.com/user-attachments/assets/715470b3-6b4b-49a1-9bf1-c784511deea5)
+![image](https://github.com/user-attachments/assets/3ba3ffdb-ec2c-4b46-9a22-eb5c233acf9d)
+
 While playing 
 ![Screenshot 2024-11-06 143912](https://github.com/user-attachments/assets/0266a927-9bb6-4a3d-b284-26f8650dc05f)
 After  loosing 
