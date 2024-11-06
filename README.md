@@ -22,8 +22,13 @@ Check out the [live demo](#) to play the game.
 - **Game Over Detection**: Ends the game when the snake hits itself or the boundary.
 
 ## 🖼️ Screenshot
-
+Home page
 ![Screenshot 2024-11-06 143843](https://github.com/user-attachments/assets/715470b3-6b4b-49a1-9bf1-c784511deea5)
+While playing 
+![Screenshot 2024-11-06 143912](https://github.com/user-attachments/assets/0266a927-9bb6-4a3d-b284-26f8650dc05f)
+After  loosing 
+![Screenshot 2024-11-06 143757](https://github.com/user-attachments/assets/1a00814f-9205-4c0d-883f-39d5a1e459d5)
+
 
 
 ## 🛠️ Technologies Used
